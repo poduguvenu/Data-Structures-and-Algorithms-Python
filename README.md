@@ -4,4 +4,6 @@ Introduction to Binary Search and Complexity Analysis with Python
 
 Binary Search - Rotated lists
 
+python-binary-search-trees
+
 python-hash-tables
