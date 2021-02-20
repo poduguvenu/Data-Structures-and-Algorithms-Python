@@ -7,3 +7,5 @@ Binary Search - Rotated lists
 python-binary-search-trees
 
 python-hash-tables
+
+python-sorting-divide-and-conquer
