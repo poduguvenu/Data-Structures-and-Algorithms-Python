@@ -11,3 +11,5 @@ python-hash-tables
 python-sorting-divide-and-conquer
 
 Recursion-Memoization-and-DynamicProgramming-LongestCommonSubsequence
+
+Recursion-Memoization-DynamicProgramming-KnapsackProblem
